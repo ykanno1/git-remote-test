@@ -1,2 +1,4 @@
 flie6
 V2AB
+
+rebaestest ローカルリポジトリ側
