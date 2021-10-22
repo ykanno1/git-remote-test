@@ -2,3 +2,6 @@ flie6
 V2AB
 
 rebaestest ローカルリポジトリ側
+
+
+main変更テスト
